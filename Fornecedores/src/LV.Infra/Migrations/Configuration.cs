@@ -6,7 +6,7 @@ namespace LV.Infra.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
     }
 }
